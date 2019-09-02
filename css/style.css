@@ -409,9 +409,8 @@ margin-left: 454px;
 margin-top: 30px;
 margin-bottom: 42px;
 }
-.our-footer .list-unstyled img
-{width: 50px;}
-.our-footer .list-unstyled img:hover
+
+.our-footer .list-unstyled .fa:hover
 {
  border: 4px solid #0b4d82;
 border-radius: 50px;
